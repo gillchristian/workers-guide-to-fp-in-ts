@@ -6,7 +6,7 @@
     "scripts": {
         "dev": "next",
         "build": "next build && next export",
-        "doc": "rm -rf doc && npm run build && mv out doc"
+        "docs": "rm -rf docs .next out && npm run build && mv out docs"
     },
     "author": "",
     "license": "MIT",
