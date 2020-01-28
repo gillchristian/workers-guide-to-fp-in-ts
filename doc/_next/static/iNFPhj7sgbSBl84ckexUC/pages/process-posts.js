@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{nCtt:function(n,o,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/process-posts",function(){return w("JXIB")}])}},[["nCtt",1,2,5,0,6]]]);
